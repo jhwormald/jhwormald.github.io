@@ -1,4 +1,3 @@
-title: <About Me>
 # About Me
 
 I am a Postdoctoral Research Associate on the ESRC-funded [Person-specific Automatic Speaker Recognition](https://pasr.york.ac.uk/home) project in the [Department of Language and Linguistic Science](https://www.york.ac.uk/language/) at the University of York. 
