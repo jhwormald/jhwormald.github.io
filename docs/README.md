@@ -15,4 +15,4 @@ Heslington
 York  
 YO10 5DD  
   
-jessica dot wormald at york dot ac dot uk
+jessica.wormald@york.ac.uk
