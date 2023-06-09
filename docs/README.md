@@ -6,14 +6,13 @@ My primary research interests are in forensic speech science and sociophonetics.
 
 Further information on teaching and casework experience is available in the background section, with publications and invited talks listed separately.  My full CV is [available online](https://drive.google.com/file/d/1G1JgjGKms8ZxI3QZ6p1wHTNxbC-qYmbB/view). 
 
-![Image](/docs/assets/wormald.JPG|width="50")
 
 ## Contact
 
-Department of Language and Linguistic Science
-University of York
-Heslington
-York
-YO10 5DD
-
+Department of Language and Linguistic Science  
+University of York  
+Heslington  
+York  
+YO10 5DD  
+  
 jessica dot wormald at york dot ac dot uk
